@@ -1,6 +1,6 @@
 # FarturaHub_Angular
 
-### :beginner: Link para o repositório back-end: https://github.com/giullliana/fartura-hub-backend
+### :beginner: Link para o repositório back-end: https://github.com/murilo-pm/fartura_hub-back-end
 ### :information_source: Link do site: https://farturahub.herokuapp.com/#/sobre-nos
 
 ### História
